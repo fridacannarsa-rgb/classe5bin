@@ -5,3 +5,4 @@ Uno dei miei piatti preferiti
 * aglio
 * olio
 * peperoncino 
+* prezzemolo
