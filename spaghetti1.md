@@ -7,3 +7,4 @@ uno dei miei piatti preferiti
 * peperoncino
 * prezzemolo
 * sale
+* Pippo
