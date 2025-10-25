@@ -6,3 +6,4 @@ uno dei miei piatti preferiti
 * olio
 * peperoncino
 * prezzemolo
+* sale
