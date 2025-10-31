@@ -1,4 +1,7 @@
 # ricette di famiglia 
 ## elenco delle rcette
-file spaghetti1.md 
+
 ricetta "Spaghetti aglio, olio, peperoncino"
+file spaghetti1.md 
+* Ricetta "Pennette al salmone"
+file pennette2.md
